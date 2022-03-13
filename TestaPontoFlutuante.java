@@ -4,7 +4,10 @@ public class TestaPontoFlutuante {
 		double salario;
 		salario = 1250.70;
 		System.out.println("meu salario e " + salario);
-		
+
+		float salario2 = 1250.70f;
+		System.out.println("meu salario e " + salario2);		
+
 		double divisao;
 		divisao = 3.14 / 2;
 		System.out.println(divisao);
