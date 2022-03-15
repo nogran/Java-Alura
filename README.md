@@ -14,7 +14,7 @@
 - [Tipos e variáveis](https://github.com/nogran/java_alura/tree/main/04.Tipos_e_variaveis)
 - [Trabalhando com caracteres](https://github.com/nogran/java_alura/tree/main/05.Trabalhando_com_caracteres)
 - [Praticando condicionais](https://github.com/nogran/java_alura/tree/main/06.Praticando_condicionais)
-- [Controlando fluxo com laços]()
+- [Controlando fluxo com laços](https://github.com/nogran/java_alura/tree/main/07.Controlando_fluxo_com_lacos)
 
 ## Instrutor:
 Paulo Silveira - CEO e confundador Alura
