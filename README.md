@@ -9,12 +9,12 @@
 
 ## Aulas:
 - O que é Java?
-- Instalação e o primeiro programa
+- [Instalação e o primeiro programa](https://github.com/nogran/java_alura/tree/main/02.Instalacao_e_o_primeiro_programa)
 - Começando com Eclipse
 - [Tipos e variáveis](https://github.com/nogran/java_alura/tree/main/04.Tipos_e_variaveis)
 - [Trabalhando com caracteres](https://github.com/nogran/java_alura/tree/main/05.Trabalhando_com_caracteres)
 - [Praticando condicionais](https://github.com/nogran/java_alura/tree/main/06.Praticando_condicionais)
-- Controlando fluxo com laços
+- [Controlando fluxo com laços]()
 
 ## Instrutor:
 Paulo Silveira - CEO e confundador Alura
