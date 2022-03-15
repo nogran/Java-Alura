@@ -11,9 +11,9 @@
 - O que é Java?
 - Instalação e o primeiro programa
 - Começando com Eclipse
-- [Tipos e variáveis] (https://github.com/nogran/java_alura/tree/main/04.Tipos_e_variaveis)
-- [Trabalhando com caracteres] (https://github.com/nogran/java_alura/tree/main/05.Trabalhando_com_caracteres)
-- [Praticando condicionais] (https://github.com/nogran/java_alura/tree/main/06.Praticando_condicionais)
+- [Tipos e variáveis](https://github.com/nogran/java_alura/tree/main/04.Tipos_e_variaveis)
+- [Trabalhando com caracteres](https://github.com/nogran/java_alura/tree/main/05.Trabalhando_com_caracteres)
+- [Praticando condicionais](https://github.com/nogran/java_alura/tree/main/06.Praticando_condicionais)
 - Controlando fluxo com laços
 
 ## Instrutor:
