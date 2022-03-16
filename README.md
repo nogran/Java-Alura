@@ -1,7 +1,6 @@
 <a href="https://cursos.alura.com.br/course/java-primeiros-passos"/> <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" height="60"> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="75"/> <a href="https://www.eclipse.org/downloads/packages/release/2021-12/r/eclipse-ide-java-developers"/> <img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" height="55"/>
 </a>
-# Java JRE e JDK:</br>
-## escreva o seu primeiro código com Eclipse
+# Java JRE e JDK: escreva o seu primeiro código com Eclipse
 
 Inscreva-se aqui:
 [Java JRE e JDK](https://cursos.alura.com.br/course/java-primeiros-passos)</br>
