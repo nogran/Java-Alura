@@ -1,4 +1,4 @@
-<a href="https://cursos.alura.com.br/course/java-primeiros-passos"/> <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" height="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80"/>
+<a href="https://cursos.alura.com.br/course/java-primeiros-passos"/> <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" height="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80"/> <href="https://www.eclipse.org/downloads/packages/release/2021-12/r/eclipse-ide-java-developers"/> <img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" height="70"/>
 </a>
 # Curso de Java JRE e JDK: escreva o seu primeiro código com Eclipse
 
