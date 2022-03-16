@@ -1,4 +1,4 @@
-<a href="https://cursos.alura.com.br/course/java-primeiros-passos"/> <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" heignt="52"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
+<a href="https://cursos.alura.com.br/course/java-primeiros-passos"/> <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" heignt="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80"/>
 </a>
 # Curso de Java JRE e JDK: escreva o seu primeiro código com Eclipse
 
