@@ -1,4 +1,4 @@
-## Nessa aula você escreveu o seu primeiro código Java e aprendemos:
+## Nessa aula eu aprendi:
 
 - Qual é a diferença entre JRE e JDK
 - Como compilar um código fonte Java na linha de comando (`javac`)
