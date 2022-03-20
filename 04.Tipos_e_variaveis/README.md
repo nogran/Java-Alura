@@ -1,5 +1,10 @@
-Nesta aula iniciamos nosso aprendizado com variáveis e tipos primitivos do Java. Os tipos vistos com mais detalhe foram int (inteiro) e double (decimal). Que usamos para fazer operações aritméticas e também concatenar com texto.
+## Nessa aula iniciei o aprendizado de:
 
-Durante o capítulo falamos sobre boas práticas na hora de nomear classes e também variáveis. Iniciamos as classes com letra maiúscula e as nossas funções e variáveis com letras minúsculas. Vamos falar mais sobre isto no futuro.
-
-Foi possível entender um pouco de type casting e como podemos passar um valor de um tipo para uma variável de outro. Para alguns casos nós não precisamos fazer nada, pois o casting é implícito e em outros precisamos deixar claro para o compilador que sabemos o que estamos fazendo, mostrando entre parênteses o tipo que queremos que seja usado.
+- Variáveis:
+	- Int (inteiro) que usamos para fazer operações aritméticas [TestaVariaveis2](https://github.com/nogran/java_alura/blob/main/04.Tipos_e_variaveis/TestaVariaveis2.java) e também concatenar com texto [TestaVariaveis](https://github.com/nogran/java_alura/blob/main/04.Tipos_e_variaveis/TestaVariaveis.java);
+	- Double (decimal) [TestaPontoFlutuante](https://github.com/nogran/java_alura/blob/main/04.Tipos_e_variaveis/TestaPontoFlutuante.java).
+- Tipos primitivos do Java (boolean, byte, char, short, int, long, float e double);
+- Boas práticas na hora de nomear classes e também variáveis:
+	- Iniciamos as classes com letra maiúscula e as nossas funções e variáveis com letras minúsculas.
+- Type casting:
+	- Como podemos passar um valor de um tipo para uma variável de outro [TestaConversao](https://github.com/nogran/java_alura/blob/main/04.Tipos_e_variaveis/TestaConversao.java), [TestaConversao2](https://github.com/nogran/java_alura/blob/main/04.Tipos_e_variaveis/TestaConversao2.java).
